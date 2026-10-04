@@ -1,0 +1,12 @@
+{
+  "appId": "com.uriai.kidquiz",
+  "appName": "우리아이 퀴즈놀이",
+  "webDir": "www",
+  "backgroundColor": "#EDF3EA",
+  "android": { "allowMixedContent": false },
+  "ios": { "contentInset": "never" },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 1200, "backgroundColor": "#EDF3EA", "showSpinner": false },
+    "StatusBar": { "style": "LIGHT", "backgroundColor": "#EDF3EA", "overlaysWebView": false }
+  }
+}

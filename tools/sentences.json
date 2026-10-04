@@ -1,0 +1,2408 @@
+[
+ {
+  "key": "17rsylo",
+  "text": "반갑습니다, 미나!",
+  "bcp": "ko-KR",
+  "lang": "한국어"
+ },
+ {
+  "key": "o1lpqp",
+  "text": "사랑해, 미나야!",
+  "bcp": "ko-KR",
+  "lang": "한국어"
+ },
+ {
+  "key": "1ww5mt0",
+  "text": "고마워요!",
+  "bcp": "ko-KR",
+  "lang": "한국어"
+ },
+ {
+  "key": "1fx9fm9",
+  "text": "내 이름은 미나예요.",
+  "bcp": "ko-KR",
+  "lang": "한국어"
+ },
+ {
+  "key": "1lu8ae1",
+  "text": "안녕히 계세요!",
+  "bcp": "ko-KR",
+  "lang": "한국어"
+ },
+ {
+  "key": "1fl9fdj",
+  "text": "はじめまして、Mina！",
+  "bcp": "ja-JP",
+  "lang": "일본어"
+ },
+ {
+  "key": "1mb32cm",
+  "text": "Mina、だいすきだよ！",
+  "bcp": "ja-JP",
+  "lang": "일본어"
+ },
+ {
+  "key": "vxqvwc",
+  "text": "ありがとう！",
+  "bcp": "ja-JP",
+  "lang": "일본어"
+ },
+ {
+  "key": "wahfr8",
+  "text": "わたしはMinaです。",
+  "bcp": "ja-JP",
+  "lang": "일본어"
+ },
+ {
+  "key": "1uizlo",
+  "text": "またね！",
+  "bcp": "ja-JP",
+  "lang": "일본어"
+ },
+ {
+  "key": "1ev9i1v",
+  "text": "Nice to meet you, Mina!",
+  "bcp": "en-US",
+  "lang": "영어"
+ },
+ {
+  "key": "d198mf",
+  "text": "I love you, Mina!",
+  "bcp": "en-US",
+  "lang": "영어"
+ },
+ {
+  "key": "1y83zff",
+  "text": "Thank you!",
+  "bcp": "en-US",
+  "lang": "영어"
+ },
+ {
+  "key": "tht3sd",
+  "text": "My name is Mina.",
+  "bcp": "en-US",
+  "lang": "영어"
+ },
+ {
+  "key": "1ugyo77",
+  "text": "Goodbye!",
+  "bcp": "en-US",
+  "lang": "영어"
+ },
+ {
+  "key": "bhogox",
+  "text": "很高兴认识你，Mina！",
+  "bcp": "zh-CN",
+  "lang": "중국어"
+ },
+ {
+  "key": "ofqoyr",
+  "text": "Mina，我爱你！",
+  "bcp": "zh-CN",
+  "lang": "중국어"
+ },
+ {
+  "key": "a312oc",
+  "text": "谢谢！",
+  "bcp": "zh-CN",
+  "lang": "중국어"
+ },
+ {
+  "key": "1u9ku9c",
+  "text": "我叫Mina。",
+  "bcp": "zh-CN",
+  "lang": "중국어"
+ },
+ {
+  "key": "thbini",
+  "text": "再见！",
+  "bcp": "zh-CN",
+  "lang": "중국어"
+ },
+ {
+  "key": "2krhkl",
+  "text": "Enchanté, Mina !",
+  "bcp": "fr-FR",
+  "lang": "프랑스어"
+ },
+ {
+  "key": "q5efbd",
+  "text": "Je t'aime, Mina !",
+  "bcp": "fr-FR",
+  "lang": "프랑스어"
+ },
+ {
+  "key": "97773w",
+  "text": "Merci !",
+  "bcp": "fr-FR",
+  "lang": "프랑스어"
+ },
+ {
+  "key": "zrv1c2",
+  "text": "Je m'appelle Mina.",
+  "bcp": "fr-FR",
+  "lang": "프랑스어"
+ },
+ {
+  "key": "s4hy4f",
+  "text": "Au revoir !",
+  "bcp": "fr-FR",
+  "lang": "프랑스어"
+ },
+ {
+  "key": "7rrp28",
+  "text": "Piacere di conoscerti, Mina!",
+  "bcp": "it-IT",
+  "lang": "이탈리아어"
+ },
+ {
+  "key": "29048c",
+  "text": "Ti voglio bene, Mina!",
+  "bcp": "it-IT",
+  "lang": "이탈리아어"
+ },
+ {
+  "key": "l2fr9w",
+  "text": "Grazie!",
+  "bcp": "it-IT",
+  "lang": "이탈리아어"
+ },
+ {
+  "key": "1eeja4z",
+  "text": "Mi chiamo Mina.",
+  "bcp": "it-IT",
+  "lang": "이탈리아어"
+ },
+ {
+  "key": "zqd32k",
+  "text": "Arrivederci!",
+  "bcp": "it-IT",
+  "lang": "이탈리아어"
+ },
+ {
+  "key": "1au58mx",
+  "text": "Schön, dich kennenzulernen, Mina!",
+  "bcp": "de-DE",
+  "lang": "독일어"
+ },
+ {
+  "key": "rw813y",
+  "text": "Ich hab dich lieb, Mina!",
+  "bcp": "de-DE",
+  "lang": "독일어"
+ },
+ {
+  "key": "1ggmgsv",
+  "text": "Danke!",
+  "bcp": "de-DE",
+  "lang": "독일어"
+ },
+ {
+  "key": "1msdzj2",
+  "text": "Ich heiße Mina.",
+  "bcp": "de-DE",
+  "lang": "독일어"
+ },
+ {
+  "key": "21b0r2",
+  "text": "Tschüss!",
+  "bcp": "de-DE",
+  "lang": "독일어"
+ },
+ {
+  "key": "v0to5j",
+  "text": "Muito prazer, Mina!",
+  "bcp": "pt-BR",
+  "lang": "포르투갈어"
+ },
+ {
+  "key": "1g62h85",
+  "text": "Eu te amo, Mina!",
+  "bcp": "pt-BR",
+  "lang": "포르투갈어"
+ },
+ {
+  "key": "11y4zbf",
+  "text": "Obrigado!",
+  "bcp": "pt-BR",
+  "lang": "포르투갈어"
+ },
+ {
+  "key": "mnx7f",
+  "text": "Meu nome é Mina.",
+  "bcp": "pt-BR",
+  "lang": "포르투갈어"
+ },
+ {
+  "key": "1kyiv5d",
+  "text": "Tchau!",
+  "bcp": "pt-BR",
+  "lang": "포르투갈어"
+ },
+ {
+  "key": "1t60nax",
+  "text": "Trevligt att träffas, Mina!",
+  "bcp": "sv-SE",
+  "lang": "스웨덴어"
+ },
+ {
+  "key": "16n7ts0",
+  "text": "Jag älskar dig, Mina!",
+  "bcp": "sv-SE",
+  "lang": "스웨덴어"
+ },
+ {
+  "key": "1f1i8o7",
+  "text": "Tack!",
+  "bcp": "sv-SE",
+  "lang": "스웨덴어"
+ },
+ {
+  "key": "1mqpn84",
+  "text": "Jag heter Mina.",
+  "bcp": "sv-SE",
+  "lang": "스웨덴어"
+ },
+ {
+  "key": "5eu3uq",
+  "text": "Hej då!",
+  "bcp": "sv-SE",
+  "lang": "스웨덴어"
+ },
+ {
+  "key": "cw8ntz",
+  "text": "आपसे मिलकर खुशी हुई, Mina!",
+  "bcp": "hi-IN",
+  "lang": "힌디어"
+ },
+ {
+  "key": "e6p391",
+  "text": "Mina, मुझे तुमसे प्यार है!",
+  "bcp": "hi-IN",
+  "lang": "힌디어"
+ },
+ {
+  "key": "1xc7dk0",
+  "text": "धन्यवाद!",
+  "bcp": "hi-IN",
+  "lang": "힌디어"
+ },
+ {
+  "key": "1a6c3h8",
+  "text": "मेरा नाम Mina है।",
+  "bcp": "hi-IN",
+  "lang": "힌디어"
+ },
+ {
+  "key": "1c3y98k",
+  "text": "फिर मिलेंगे!",
+  "bcp": "hi-IN",
+  "lang": "힌디어"
+ },
+ {
+  "key": "17o4dg6",
+  "text": "Rất vui được gặp bạn, Mina!",
+  "bcp": "vi-VN",
+  "lang": "베트남어"
+ },
+ {
+  "key": "1r8cbkg",
+  "text": "Yêu con nhiều lắm, Mina!",
+  "bcp": "vi-VN",
+  "lang": "베트남어"
+ },
+ {
+  "key": "1xqoieg",
+  "text": "Cảm ơn!",
+  "bcp": "vi-VN",
+  "lang": "베트남어"
+ },
+ {
+  "key": "uq98w3",
+  "text": "Tên tôi là Mina.",
+  "bcp": "vi-VN",
+  "lang": "베트남어"
+ },
+ {
+  "key": "qedsbo",
+  "text": "Tạm biệt!",
+  "bcp": "vi-VN",
+  "lang": "베트남어"
+ },
+ {
+  "key": "jod818",
+  "text": "ยินดีที่ได้รู้จัก Mina",
+  "bcp": "th-TH",
+  "lang": "태국어"
+ },
+ {
+  "key": "1p078fk",
+  "text": "Mina, รักนะ",
+  "bcp": "th-TH",
+  "lang": "태국어"
+ },
+ {
+  "key": "1xq5e2z",
+  "text": "ขอบคุณ",
+  "bcp": "th-TH",
+  "lang": "태국어"
+ },
+ {
+  "key": "10mtwud",
+  "text": "ฉันชื่อ Mina",
+  "bcp": "th-TH",
+  "lang": "태국어"
+ },
+ {
+  "key": "1fh8sud",
+  "text": "ลาก่อน",
+  "bcp": "th-TH",
+  "lang": "태국어"
+ },
+ {
+  "key": "dp4o9",
+  "text": "Приятно познакомиться, Mina!",
+  "bcp": "ru-RU",
+  "lang": "러시아어"
+ },
+ {
+  "key": "xx1quk",
+  "text": "Я тебя люблю, Mina!",
+  "bcp": "ru-RU",
+  "lang": "러시아어"
+ },
+ {
+  "key": "1cgf7gc",
+  "text": "Спасибо!",
+  "bcp": "ru-RU",
+  "lang": "러시아어"
+ },
+ {
+  "key": "1ikvrp5",
+  "text": "Меня зовут Mina.",
+  "bcp": "ru-RU",
+  "lang": "러시아어"
+ },
+ {
+  "key": "145wsg3",
+  "text": "До свидания!",
+  "bcp": "ru-RU",
+  "lang": "러시아어"
+ },
+ {
+  "key": "fft0r8",
+  "text": "¡Mucho gusto, Mina!",
+  "bcp": "es-ES",
+  "lang": "스페인어"
+ },
+ {
+  "key": "1teeb3c",
+  "text": "¡Te quiero, Mina!",
+  "bcp": "es-ES",
+  "lang": "스페인어"
+ },
+ {
+  "key": "18ypu0b",
+  "text": "¡Gracias!",
+  "bcp": "es-ES",
+  "lang": "스페인어"
+ },
+ {
+  "key": "wocgd3",
+  "text": "Me llamo Mina.",
+  "bcp": "es-ES",
+  "lang": "스페인어"
+ },
+ {
+  "key": "ouh7q5",
+  "text": "¡Adiós!",
+  "bcp": "es-ES",
+  "lang": "스페인어"
+ },
+ {
+  "key": "1a0o25d",
+  "text": "Tanıştığımıza memnun oldum, Mina!",
+  "bcp": "tr-TR",
+  "lang": "튀르키예어"
+ },
+ {
+  "key": "16wexyj",
+  "text": "Seni seviyorum, Mina!",
+  "bcp": "tr-TR",
+  "lang": "튀르키예어"
+ },
+ {
+  "key": "15997bk",
+  "text": "Teşekkürler!",
+  "bcp": "tr-TR",
+  "lang": "튀르키예어"
+ },
+ {
+  "key": "bvzklw",
+  "text": "Benim adım Mina.",
+  "bcp": "tr-TR",
+  "lang": "튀르키예어"
+ },
+ {
+  "key": "1v9o1hc",
+  "text": "Hoşça kal!",
+  "bcp": "tr-TR",
+  "lang": "튀르키예어"
+ },
+ {
+  "key": "10wzdo7",
+  "text": "Χάρηκα, Mina!",
+  "bcp": "el-GR",
+  "lang": "그리스어"
+ },
+ {
+  "key": "1dtktz0",
+  "text": "Σ' αγαπώ, Mina!",
+  "bcp": "el-GR",
+  "lang": "그리스어"
+ },
+ {
+  "key": "bw3xrz",
+  "text": "Ευχαριστώ!",
+  "bcp": "el-GR",
+  "lang": "그리스어"
+ },
+ {
+  "key": "1cbbhpr",
+  "text": "Με λένε Mina.",
+  "bcp": "el-GR",
+  "lang": "그리스어"
+ },
+ {
+  "key": "16h341y",
+  "text": "Αντίο!",
+  "bcp": "el-GR",
+  "lang": "그리스어"
+ },
+ {
+  "key": "okbsxz",
+  "text": "Leuk je te ontmoeten, Mina!",
+  "bcp": "nl-NL",
+  "lang": "네덜란드어"
+ },
+ {
+  "key": "18o8jjx",
+  "text": "Ik hou van je, Mina!",
+  "bcp": "nl-NL",
+  "lang": "네덜란드어"
+ },
+ {
+  "key": "1kssu6p",
+  "text": "Dank je wel!",
+  "bcp": "nl-NL",
+  "lang": "네덜란드어"
+ },
+ {
+  "key": "10xs25a",
+  "text": "Ik heet Mina.",
+  "bcp": "nl-NL",
+  "lang": "네덜란드어"
+ },
+ {
+  "key": "1g4zw8d",
+  "text": "Doei!",
+  "bcp": "nl-NL",
+  "lang": "네덜란드어"
+ },
+ {
+  "key": "ys8s44",
+  "text": "تشرفنا يا Mina",
+  "bcp": "ar-EG",
+  "lang": "아랍어"
+ },
+ {
+  "key": "1es8p1t",
+  "text": "بحبك يا Mina",
+  "bcp": "ar-EG",
+  "lang": "아랍어"
+ },
+ {
+  "key": "1mojccs",
+  "text": "شكراً!",
+  "bcp": "ar-EG",
+  "lang": "아랍어"
+ },
+ {
+  "key": "1g0sjnj",
+  "text": "اسمي Mina.",
+  "bcp": "ar-EG",
+  "lang": "아랍어"
+ },
+ {
+  "key": "c9fypv",
+  "text": "مع السلامة!",
+  "bcp": "ar-EG",
+  "lang": "아랍어"
+ },
+ {
+  "key": "gq3wal",
+  "text": "Ikinagagalak kitang makilala, Mina!",
+  "bcp": "fil-PH",
+  "lang": "필리핀어"
+ },
+ {
+  "key": "1juki17",
+  "text": "Mahal kita, Mina!",
+  "bcp": "fil-PH",
+  "lang": "필리핀어"
+ },
+ {
+  "key": "zalhcb",
+  "text": "Salamat!",
+  "bcp": "fil-PH",
+  "lang": "필리핀어"
+ },
+ {
+  "key": "fdwv4h",
+  "text": "Ako si Mina.",
+  "bcp": "fil-PH",
+  "lang": "필리핀어"
+ },
+ {
+  "key": "1x6vof8",
+  "text": "Paalam!",
+  "bcp": "fil-PH",
+  "lang": "필리핀어"
+ },
+ {
+  "key": "bny1om",
+  "text": "Hyggelig å møte deg, Mina!",
+  "bcp": "nb-NO",
+  "lang": "노르웨이어"
+ },
+ {
+  "key": "iifmar",
+  "text": "Jeg elsker deg, Mina!",
+  "bcp": "nb-NO",
+  "lang": "노르웨이어"
+ },
+ {
+  "key": "14a687j",
+  "text": "Takk!",
+  "bcp": "nb-NO",
+  "lang": "노르웨이어"
+ },
+ {
+  "key": "ovpf9k",
+  "text": "Jeg heter Mina.",
+  "bcp": "nb-NO",
+  "lang": "노르웨이어"
+ },
+ {
+  "key": "1bebjxe",
+  "text": "Ha det!",
+  "bcp": "nb-NO",
+  "lang": "노르웨이어"
+ },
+ {
+  "key": "1nnybi3",
+  "text": "Hauska tavata, Mina!",
+  "bcp": "fi-FI",
+  "lang": "핀란드어"
+ },
+ {
+  "key": "o8xo40",
+  "text": "Minä rakastan sinua, Mina!",
+  "bcp": "fi-FI",
+  "lang": "핀란드어"
+ },
+ {
+  "key": "oysvpp",
+  "text": "Kiitos!",
+  "bcp": "fi-FI",
+  "lang": "핀란드어"
+ },
+ {
+  "key": "1chzspr",
+  "text": "Nimeni on Mina.",
+  "bcp": "fi-FI",
+  "lang": "핀란드어"
+ },
+ {
+  "key": "18owvx5",
+  "text": "Näkemiin!",
+  "bcp": "fi-FI",
+  "lang": "핀란드어"
+ },
+ {
+  "key": "gllmrn",
+  "text": "Rart at møde dig, Mina!",
+  "bcp": "da-DK",
+  "lang": "덴마크어"
+ },
+ {
+  "key": "1fsphrr",
+  "text": "Jeg elsker dig, Mina!",
+  "bcp": "da-DK",
+  "lang": "덴마크어"
+ },
+ {
+  "key": "mfnt36",
+  "text": "Tak!",
+  "bcp": "da-DK",
+  "lang": "덴마크어"
+ },
+ {
+  "key": "kbcwus",
+  "text": "Jeg hedder Mina.",
+  "bcp": "da-DK",
+  "lang": "덴마크어"
+ },
+ {
+  "key": "72k4ww",
+  "text": "Farvel!",
+  "bcp": "da-DK",
+  "lang": "덴마크어"
+ },
+ {
+  "key": "1xvpyde",
+  "text": "Senang bertemu denganmu, Mina!",
+  "bcp": "id-ID",
+  "lang": "인도네시아어"
+ },
+ {
+  "key": "1y2mug1",
+  "text": "Aku sayang kamu, Mina!",
+  "bcp": "id-ID",
+  "lang": "인도네시아어"
+ },
+ {
+  "key": "1bpw5d4",
+  "text": "Terima kasih!",
+  "bcp": "id-ID",
+  "lang": "인도네시아어"
+ },
+ {
+  "key": "2vtng3",
+  "text": "Nama saya Mina.",
+  "bcp": "id-ID",
+  "lang": "인도네시아어"
+ },
+ {
+  "key": "ksat1w",
+  "text": "Sampai jumpa!",
+  "bcp": "id-ID",
+  "lang": "인도네시아어"
+ },
+ {
+  "key": "vlzxui",
+  "text": "Miło cię poznać, Mina!",
+  "bcp": "pl-PL",
+  "lang": "폴란드어"
+ },
+ {
+  "key": "1m8yh2l",
+  "text": "Kocham cię, Mina!",
+  "bcp": "pl-PL",
+  "lang": "폴란드어"
+ },
+ {
+  "key": "1vxmcuv",
+  "text": "Dziękuję!",
+  "bcp": "pl-PL",
+  "lang": "폴란드어"
+ },
+ {
+  "key": "1kho8ra",
+  "text": "Mam na imię Mina.",
+  "bcp": "pl-PL",
+  "lang": "폴란드어"
+ },
+ {
+  "key": "o2s8me",
+  "text": "Do widzenia!",
+  "bcp": "pl-PL",
+  "lang": "폴란드어"
+ },
+ {
+  "key": "1wvhykj",
+  "text": "Приємно познайомитися, Mina!",
+  "bcp": "uk-UA",
+  "lang": "우크라이나어"
+ },
+ {
+  "key": "squszm",
+  "text": "Я тебе люблю, Mina!",
+  "bcp": "uk-UA",
+  "lang": "우크라이나어"
+ },
+ {
+  "key": "xca5hm",
+  "text": "Дякую!",
+  "bcp": "uk-UA",
+  "lang": "우크라이나어"
+ },
+ {
+  "key": "1866zvu",
+  "text": "Мене звати Mina.",
+  "bcp": "uk-UA",
+  "lang": "우크라이나어"
+ },
+ {
+  "key": "2beqjf",
+  "text": "До побачення!",
+  "bcp": "uk-UA",
+  "lang": "우크라이나어"
+ },
+ {
+  "key": "tlxjz7",
+  "text": "Selamat berkenalan, Mina!",
+  "bcp": "ms-MY",
+  "lang": "말레이어"
+ },
+ {
+  "key": "dfov32",
+  "text": "Saya sayang awak, Mina!",
+  "bcp": "ms-MY",
+  "lang": "말레이어"
+ },
+ {
+  "key": "u4zpwz",
+  "text": "Selamat tinggal!",
+  "bcp": "ms-MY",
+  "lang": "말레이어"
+ },
+ {
+  "key": "1jbgh9j",
+  "text": "Танилцсандаа таатай байна, Mina!",
+  "bcp": "mn-MN",
+  "lang": "몽골어"
+ },
+ {
+  "key": "1hnfwbi",
+  "text": "Mina, би чамд хайртай!",
+  "bcp": "mn-MN",
+  "lang": "몽골어"
+ },
+ {
+  "key": "azwb74",
+  "text": "Баярлалаа!",
+  "bcp": "mn-MN",
+  "lang": "몽골어"
+ },
+ {
+  "key": "1fvshdv",
+  "text": "Намайг Mina гэдэг.",
+  "bcp": "mn-MN",
+  "lang": "몽골어"
+ },
+ {
+  "key": "pzmaib",
+  "text": "Баяртай!",
+  "bcp": "mn-MN",
+  "lang": "몽골어"
+ },
+ {
+  "key": "13rxi98",
+  "text": "Танысқаныма қуаныштымын, Mina!",
+  "bcp": "kk-KZ",
+  "lang": "카자흐어"
+ },
+ {
+  "key": "9eev48",
+  "text": "Mina, мен сені жақсы көремін!",
+  "bcp": "kk-KZ",
+  "lang": "카자흐어"
+ },
+ {
+  "key": "jxp4u",
+  "text": "Рахмет!",
+  "bcp": "kk-KZ",
+  "lang": "카자흐어"
+ },
+ {
+  "key": "1sj9zvc",
+  "text": "Менің атым Mina.",
+  "bcp": "kk-KZ",
+  "lang": "카자흐어"
+ },
+ {
+  "key": "1n16tqk",
+  "text": "Сау болыңыз!",
+  "bcp": "kk-KZ",
+  "lang": "카자흐어"
+ },
+ {
+  "key": "19kub1o",
+  "text": "Tanishganimdan xursandman, Mina!",
+  "bcp": "uz-UZ",
+  "lang": "우즈베크어"
+ },
+ {
+  "key": "11zifa7",
+  "text": "Mina, men seni sevaman!",
+  "bcp": "uz-UZ",
+  "lang": "우즈베크어"
+ },
+ {
+  "key": "1qf4omt",
+  "text": "Rahmat!",
+  "bcp": "uz-UZ",
+  "lang": "우즈베크어"
+ },
+ {
+  "key": "1005xvr",
+  "text": "Mening ismim Mina.",
+  "bcp": "uz-UZ",
+  "lang": "우즈베크어"
+ },
+ {
+  "key": "cnl27c",
+  "text": "Xayr!",
+  "bcp": "uz-UZ",
+  "lang": "우즈베크어"
+ },
+ {
+  "key": "b8iszo",
+  "text": "ຍິນດີທີ່ໄດ້ຮູ້ຈັກ Mina",
+  "bcp": "lo-LA",
+  "lang": "라오어"
+ },
+ {
+  "key": "fude9r",
+  "text": "Mina, ຂ້ອຍຮັກເຈົ້າ",
+  "bcp": "lo-LA",
+  "lang": "라오어"
+ },
+ {
+  "key": "1c7jad1",
+  "text": "ຂອບໃຈ",
+  "bcp": "lo-LA",
+  "lang": "라오어"
+ },
+ {
+  "key": "1827ssa",
+  "text": "ຂ້ອຍຊື່ Mina",
+  "bcp": "lo-LA",
+  "lang": "라오어"
+ },
+ {
+  "key": "1p82mmd",
+  "text": "ລາກ່ອນ",
+  "bcp": "lo-LA",
+  "lang": "라오어"
+ },
+ {
+  "key": "ovqe5q",
+  "text": "រីករាយដែលបានស្គាល់ Mina",
+  "bcp": "km-KH",
+  "lang": "크메르어"
+ },
+ {
+  "key": "l51enu",
+  "text": "Mina, ខ្ញុំស្រឡាញ់អ្នក",
+  "bcp": "km-KH",
+  "lang": "크메르어"
+ },
+ {
+  "key": "th62gk",
+  "text": "អរគុណ",
+  "bcp": "km-KH",
+  "lang": "크메르어"
+ },
+ {
+  "key": "rb13t6",
+  "text": "ខ្ញុំឈ្មោះ Mina",
+  "bcp": "km-KH",
+  "lang": "크메르어"
+ },
+ {
+  "key": "1jys3wd",
+  "text": "លាហើយ",
+  "bcp": "km-KH",
+  "lang": "크메르어"
+ },
+ {
+  "key": "d0vns0",
+  "text": "တွေ့ရတာ ဝမ်းသာပါတယ် Mina",
+  "bcp": "my-MM",
+  "lang": "미얀마어"
+ },
+ {
+  "key": "1o5xlnr",
+  "text": "Mina, ချစ်တယ်",
+  "bcp": "my-MM",
+  "lang": "미얀마어"
+ },
+ {
+  "key": "1b6oqag",
+  "text": "ကျေးဇူးတင်ပါတယ်",
+  "bcp": "my-MM",
+  "lang": "미얀마어"
+ },
+ {
+  "key": "1sxyeb3",
+  "text": "ကျွန်တော့်နာမည် Mina ပါ",
+  "bcp": "my-MM",
+  "lang": "미얀마어"
+ },
+ {
+  "key": "q6mqli",
+  "text": "သွားမယ်နော်",
+  "bcp": "my-MM",
+  "lang": "미얀마어"
+ },
+ {
+  "key": "l7oc2e",
+  "text": "तपाईंलाई भेटेर खुसी लाग्यो, Mina!",
+  "bcp": "ne-NP",
+  "lang": "네팔어"
+ },
+ {
+  "key": "wm2yvc",
+  "text": "Mina, म तिमीलाई माया गर्छु",
+  "bcp": "ne-NP",
+  "lang": "네팔어"
+ },
+ {
+  "key": "1jbf6re",
+  "text": "मेरो नाम Mina हो।",
+  "bcp": "ne-NP",
+  "lang": "네팔어"
+ },
+ {
+  "key": "h331t3",
+  "text": "फेरि भेटौँला!",
+  "bcp": "ne-NP",
+  "lang": "네팔어"
+ },
+ {
+  "key": "gu1u6d",
+  "text": "আপনার সাথে দেখা হয়ে ভালো লাগলো, Mina!",
+  "bcp": "bn-BD",
+  "lang": "벵골어"
+ },
+ {
+  "key": "1l8px8j",
+  "text": "Mina, আমি তোমাকে ভালোবাসি",
+  "bcp": "bn-BD",
+  "lang": "벵골어"
+ },
+ {
+  "key": "7wjhc1",
+  "text": "ধন্যবাদ!",
+  "bcp": "bn-BD",
+  "lang": "벵골어"
+ },
+ {
+  "key": "j8ndi6",
+  "text": "আমার নাম Mina।",
+  "bcp": "bn-BD",
+  "lang": "벵골어"
+ },
+ {
+  "key": "1cv43vl",
+  "text": "আবার দেখা হবে!",
+  "bcp": "bn-BD",
+  "lang": "벵골어"
+ },
+ {
+  "key": "igs0d1",
+  "text": "آپ سے مل کر خوشی ہوئی، Mina",
+  "bcp": "ur-PK",
+  "lang": "우르두어"
+ },
+ {
+  "key": "r4ylv4",
+  "text": "Mina, مجھے تم سے پیار ہے",
+  "bcp": "ur-PK",
+  "lang": "우르두어"
+ },
+ {
+  "key": "l4x8n9",
+  "text": "شکریہ!",
+  "bcp": "ur-PK",
+  "lang": "우르두어"
+ },
+ {
+  "key": "1y6zolw",
+  "text": "میرا نام Mina ہے۔",
+  "bcp": "ur-PK",
+  "lang": "우르두어"
+ },
+ {
+  "key": "1rbogxb",
+  "text": "خدا حافظ!",
+  "bcp": "ur-PK",
+  "lang": "우르두어"
+ },
+ {
+  "key": "1mqntuh",
+  "text": "ඔබව හමුවීම සතුටක්, Mina!",
+  "bcp": "si-LK",
+  "lang": "싱할라어"
+ },
+ {
+  "key": "19qq70d",
+  "text": "Mina, මම ඔයාට ආදරෙයි",
+  "bcp": "si-LK",
+  "lang": "싱할라어"
+ },
+ {
+  "key": "17jqaof",
+  "text": "ස්තූතියි!",
+  "bcp": "si-LK",
+  "lang": "싱할라어"
+ },
+ {
+  "key": "x3ikt9",
+  "text": "මගේ නම Mina.",
+  "bcp": "si-LK",
+  "lang": "싱할라어"
+ },
+ {
+  "key": "1k2obxi",
+  "text": "ගිහින් එන්නම්!",
+  "bcp": "si-LK",
+  "lang": "싱할라어"
+ },
+ {
+  "key": "2i0p60",
+  "text": "از آشنایی با شما خوشبختم، Mina",
+  "bcp": "fa-IR",
+  "lang": "페르시아어"
+ },
+ {
+  "key": "1wunycm",
+  "text": "Mina, دوستت دارم",
+  "bcp": "fa-IR",
+  "lang": "페르시아어"
+ },
+ {
+  "key": "19uzf9r",
+  "text": "مرسی!",
+  "bcp": "fa-IR",
+  "lang": "페르시아어"
+ },
+ {
+  "key": "4fqmp2",
+  "text": "اسم من Mina است.",
+  "bcp": "fa-IR",
+  "lang": "페르시아어"
+ },
+ {
+  "key": "1m77q2h",
+  "text": "خداحافظ!",
+  "bcp": "fa-IR",
+  "lang": "페르시아어"
+ },
+ {
+  "key": "1kp8dim",
+  "text": "Amo-te, Mina!",
+  "bcp": "pt-PT",
+  "lang": "포르투갈어"
+ },
+ {
+  "key": "froevw",
+  "text": "از دیدن شما خوشحالم، Mina",
+  "bcp": "fa-AF",
+  "lang": "다리어"
+ },
+ {
+  "key": "163wc05",
+  "text": "دوستت دارم, Mina!",
+  "bcp": "fa-AF",
+  "lang": "다리어"
+ },
+ {
+  "key": "1vfsge4",
+  "text": "تشکر!",
+  "bcp": "fa-AF",
+  "lang": "다리어"
+ },
+ {
+  "key": "1f2hkvn",
+  "text": "نام من Mina است.",
+  "bcp": "fa-AF",
+  "lang": "다리어"
+ },
+ {
+  "key": "166iugu",
+  "text": "Gëzohem që u njohëm, Mina!",
+  "bcp": "sq-AL",
+  "lang": "알바니아어"
+ },
+ {
+  "key": "lk4yr8",
+  "text": "Të dua, Mina!",
+  "bcp": "sq-AL",
+  "lang": "알바니아어"
+ },
+ {
+  "key": "4myn8c",
+  "text": "Faleminderit!",
+  "bcp": "sq-AL",
+  "lang": "알바니아어"
+ },
+ {
+  "key": "178cuoc",
+  "text": "Unë quhem Mina.",
+  "bcp": "sq-AL",
+  "lang": "알바니아어"
+ },
+ {
+  "key": "1hu10cf",
+  "text": "Mirupafshim!",
+  "bcp": "sq-AL",
+  "lang": "알바니아어"
+ },
+ {
+  "key": "1auaz8s",
+  "text": "Encantat de conèixer-te, Mina!",
+  "bcp": "ca-ES",
+  "lang": "카탈루냐어"
+ },
+ {
+  "key": "1646p9v",
+  "text": "T'estimo, Mina!",
+  "bcp": "ca-ES",
+  "lang": "카탈루냐어"
+ },
+ {
+  "key": "19djuxv",
+  "text": "Gràcies!",
+  "bcp": "ca-ES",
+  "lang": "카탈루냐어"
+ },
+ {
+  "key": "1pi2wro",
+  "text": "Em dic Mina.",
+  "bcp": "ca-ES",
+  "lang": "카탈루냐어"
+ },
+ {
+  "key": "e364nt",
+  "text": "Adéu!",
+  "bcp": "ca-ES",
+  "lang": "카탈루냐어"
+ },
+ {
+  "key": "so5zm6",
+  "text": "Ուրախ եմ ծանոթանալ, Mina!",
+  "bcp": "hy-AM",
+  "lang": "아르메니아어"
+ },
+ {
+  "key": "bz0auz",
+  "text": "Ես քեզ սիրում եմ, Mina!",
+  "bcp": "hy-AM",
+  "lang": "아르메니아어"
+ },
+ {
+  "key": "1bw2n0q",
+  "text": "Շնորհակալություն!",
+  "bcp": "hy-AM",
+  "lang": "아르메니아어"
+ },
+ {
+  "key": "27gduc",
+  "text": "Իմ անունը Mina է։",
+  "bcp": "hy-AM",
+  "lang": "아르메니아어"
+ },
+ {
+  "key": "1copp9s",
+  "text": "Ցտեսություն!",
+  "bcp": "hy-AM",
+  "lang": "아르메니아어"
+ },
+ {
+  "key": "tfhwst",
+  "text": "Tanış olmağıma şadam, Mina!",
+  "bcp": "az-AZ",
+  "lang": "아제르바이잔어"
+ },
+ {
+  "key": "iqerg7",
+  "text": "Səni sevirəm, Mina!",
+  "bcp": "az-AZ",
+  "lang": "아제르바이잔어"
+ },
+ {
+  "key": "7nlgil",
+  "text": "Təşəkkür edirəm!",
+  "bcp": "az-AZ",
+  "lang": "아제르바이잔어"
+ },
+ {
+  "key": "rpb5jr",
+  "text": "Mənim adım Mina.",
+  "bcp": "az-AZ",
+  "lang": "아제르바이잔어"
+ },
+ {
+  "key": "e0tr0",
+  "text": "Sağ ol!",
+  "bcp": "az-AZ",
+  "lang": "아제르바이잔어"
+ },
+ {
+  "key": "1pum9lz",
+  "text": "Приятно ми е, Mina!",
+  "bcp": "bg-BG",
+  "lang": "불가리아어"
+ },
+ {
+  "key": "1tn9fv4",
+  "text": "Обичам те, Mina!",
+  "bcp": "bg-BG",
+  "lang": "불가리아어"
+ },
+ {
+  "key": "1icogue",
+  "text": "Благодаря!",
+  "bcp": "bg-BG",
+  "lang": "불가리아어"
+ },
+ {
+  "key": "1ouhsqr",
+  "text": "Казвам се Mina.",
+  "bcp": "bg-BG",
+  "lang": "불가리아어"
+ },
+ {
+  "key": "j0u9o2",
+  "text": "Довиждане!",
+  "bcp": "bg-BG",
+  "lang": "불가리아어"
+ },
+ {
+  "key": "gsrlpr",
+  "text": "Drago mi je, Mina!",
+  "bcp": "bs-BA",
+  "lang": "보스니아어"
+ },
+ {
+  "key": "rhxp5r",
+  "text": "Volim te, Mina!",
+  "bcp": "bs-BA",
+  "lang": "보스니아어"
+ },
+ {
+  "key": "1rkwbck",
+  "text": "Hvala!",
+  "bcp": "bs-BA",
+  "lang": "보스니아어"
+ },
+ {
+  "key": "1mei8sl",
+  "text": "Zovem se Mina.",
+  "bcp": "bs-BA",
+  "lang": "보스니아어"
+ },
+ {
+  "key": "nh0oih",
+  "text": "Doviđenja!",
+  "bcp": "bs-BA",
+  "lang": "보스니아어"
+ },
+ {
+  "key": "11qaff5",
+  "text": "Прыемна пазнаёміцца, Mina!",
+  "bcp": "be-BY",
+  "lang": "벨라루스어"
+ },
+ {
+  "key": "19cdq6a",
+  "text": "Я цябе кахаю, Mina!",
+  "bcp": "be-BY",
+  "lang": "벨라루스어"
+ },
+ {
+  "key": "1xhymoc",
+  "text": "Дзякуй!",
+  "bcp": "be-BY",
+  "lang": "벨라루스어"
+ },
+ {
+  "key": "qxrdvb",
+  "text": "Мяне завуць Mina.",
+  "bcp": "be-BY",
+  "lang": "벨라루스어"
+ },
+ {
+  "key": "4g41hr",
+  "text": "Да пабачэння!",
+  "bcp": "be-BY",
+  "lang": "벨라루스어"
+ },
+ {
+  "key": "2djmfs",
+  "text": "Kuzuzangpo la, Mina!",
+  "bcp": "dz-BT",
+  "lang": "종카어"
+ },
+ {
+  "key": "g946so",
+  "text": "Kadrinche la!",
+  "bcp": "dz-BT",
+  "lang": "종카어"
+ },
+ {
+  "key": "bv0wbq",
+  "text": "Ke itumelela go go itse, Mina!",
+  "bcp": "tn-BW",
+  "lang": "츠와나어"
+ },
+ {
+  "key": "1cvbjk8",
+  "text": "Ke a go rata, Mina!",
+  "bcp": "tn-BW",
+  "lang": "츠와나어"
+ },
+ {
+  "key": "13xf0nl",
+  "text": "Ke a leboga!",
+  "bcp": "tn-BW",
+  "lang": "츠와나어"
+ },
+ {
+  "key": "1ugel8u",
+  "text": "Leina la me ke Mina.",
+  "bcp": "tn-BW",
+  "lang": "츠와나어"
+ },
+ {
+  "key": "1g8kfs2",
+  "text": "Sala sentle!",
+  "bcp": "tn-BW",
+  "lang": "츠와나어"
+ },
+ {
+  "key": "11mk1bz",
+  "text": "Rád tě poznávám, Mina!",
+  "bcp": "cs-CZ",
+  "lang": "체코어"
+ },
+ {
+  "key": "7l2v4",
+  "text": "Miluju tě, Mina!",
+  "bcp": "cs-CZ",
+  "lang": "체코어"
+ },
+ {
+  "key": "1rizfmg",
+  "text": "Děkuji!",
+  "bcp": "cs-CZ",
+  "lang": "체코어"
+ },
+ {
+  "key": "t9aera",
+  "text": "Jmenuji se Mina.",
+  "bcp": "cs-CZ",
+  "lang": "체코어"
+ },
+ {
+  "key": "184v9om",
+  "text": "Na shledanou!",
+  "bcp": "cs-CZ",
+  "lang": "체코어"
+ },
+ {
+  "key": "4my43j",
+  "text": "ብምፍላጥካ ደስ ኢሉኒ፣ Mina",
+  "bcp": "ti-ER",
+  "lang": "티그리냐어"
+ },
+ {
+  "key": "1m2bkea",
+  "text": "የቐንየለይ!",
+  "bcp": "ti-ER",
+  "lang": "티그리냐어"
+ },
+ {
+  "key": "ihvpam",
+  "text": "ስመይ Mina እዩ።",
+  "bcp": "ti-ER",
+  "lang": "티그리냐어"
+ },
+ {
+  "key": "obfsa2",
+  "text": "ደሓን ኩን!",
+  "bcp": "ti-ER",
+  "lang": "티그리냐어"
+ },
+ {
+  "key": "1sr4240",
+  "text": "Meeldiv tutvuda, Mina!",
+  "bcp": "et-EE",
+  "lang": "에스토니아어"
+ },
+ {
+  "key": "1fob6h0",
+  "text": "Ma armastan sind, Mina!",
+  "bcp": "et-EE",
+  "lang": "에스토니아어"
+ },
+ {
+  "key": "g5mtws",
+  "text": "Aitäh!",
+  "bcp": "et-EE",
+  "lang": "에스토니아어"
+ },
+ {
+  "key": "175t3wt",
+  "text": "Minu nimi on Mina.",
+  "bcp": "et-EE",
+  "lang": "에스토니아어"
+ },
+ {
+  "key": "cfaq92",
+  "text": "Head aega!",
+  "bcp": "et-EE",
+  "lang": "에스토니아어"
+ },
+ {
+  "key": "1hc6yej",
+  "text": "ስለተዋወቅን ደስ ብሎኛል፣ Mina",
+  "bcp": "am-ET",
+  "lang": "암하라어"
+ },
+ {
+  "key": "yqbngn",
+  "text": "እወድሃለሁ, Mina!",
+  "bcp": "am-ET",
+  "lang": "암하라어"
+ },
+ {
+  "key": "5y9rlj",
+  "text": "አመሰግናለሁ!",
+  "bcp": "am-ET",
+  "lang": "암하라어"
+ },
+ {
+  "key": "rn9ry8",
+  "text": "ስሜ Mina ነው።",
+  "bcp": "am-ET",
+  "lang": "암하라어"
+ },
+ {
+  "key": "4fyfy4",
+  "text": "ቻው!",
+  "bcp": "am-ET",
+  "lang": "암하라어"
+ },
+ {
+  "key": "1iivsu7",
+  "text": "Bula, Mina!",
+  "bcp": "fj-FJ",
+  "lang": "피지어"
+ },
+ {
+  "key": "ne6yvq",
+  "text": "Au domoni iko, Mina!",
+  "bcp": "fj-FJ",
+  "lang": "피지어"
+ },
+ {
+  "key": "mutz10",
+  "text": "Vinaka!",
+  "bcp": "fj-FJ",
+  "lang": "피지어"
+ },
+ {
+  "key": "hrdow9",
+  "text": "O yau o Mina.",
+  "bcp": "fj-FJ",
+  "lang": "피지어"
+ },
+ {
+  "key": "gtz4ng",
+  "text": "Moce!",
+  "bcp": "fj-FJ",
+  "lang": "피지어"
+ },
+ {
+  "key": "7usvvj",
+  "text": "სასიამოვნოა, Mina!",
+  "bcp": "ka-GE",
+  "lang": "조지아어"
+ },
+ {
+  "key": "1djgwai",
+  "text": "მიყვარხარ, Mina!",
+  "bcp": "ka-GE",
+  "lang": "조지아어"
+ },
+ {
+  "key": "solk76",
+  "text": "მადლობა!",
+  "bcp": "ka-GE",
+  "lang": "조지아어"
+ },
+ {
+  "key": "1hxeo3a",
+  "text": "მე მქვია Mina.",
+  "bcp": "ka-GE",
+  "lang": "조지아어"
+ },
+ {
+  "key": "ci6gtk",
+  "text": "ნახვამდის!",
+  "bcp": "ka-GE",
+  "lang": "조지아어"
+ },
+ {
+  "key": "m0kznz",
+  "text": "Mwen kontan rankontre ou, Mina!",
+  "bcp": "ht-HT",
+  "lang": "아이티 크리올어"
+ },
+ {
+  "key": "afz5xr",
+  "text": "Mwen renmen ou, Mina!",
+  "bcp": "ht-HT",
+  "lang": "아이티 크리올어"
+ },
+ {
+  "key": "1ptry3n",
+  "text": "Mèsi!",
+  "bcp": "ht-HT",
+  "lang": "아이티 크리올어"
+ },
+ {
+  "key": "el6x57",
+  "text": "Mwen rele Mina.",
+  "bcp": "ht-HT",
+  "lang": "아이티 크리올어"
+ },
+ {
+  "key": "6drmr2",
+  "text": "Orevwa!",
+  "bcp": "ht-HT",
+  "lang": "아이티 크리올어"
+ },
+ {
+  "key": "1p1qlqx",
+  "text": "Örülök, hogy megismertelek, Mina!",
+  "bcp": "hu-HU",
+  "lang": "헝가리어"
+ },
+ {
+  "key": "rdq98k",
+  "text": "Szeretlek, Mina!",
+  "bcp": "hu-HU",
+  "lang": "헝가리어"
+ },
+ {
+  "key": "11ja1fz",
+  "text": "Köszönöm!",
+  "bcp": "hu-HU",
+  "lang": "헝가리어"
+ },
+ {
+  "key": "1vsj4f8",
+  "text": "A nevem Mina.",
+  "bcp": "hu-HU",
+  "lang": "헝가리어"
+ },
+ {
+  "key": "xkpsqr",
+  "text": "Viszontlátásra!",
+  "bcp": "hu-HU",
+  "lang": "헝가리어"
+ },
+ {
+  "key": "11lwf51",
+  "text": "Gaman að kynnast þér, Mina!",
+  "bcp": "is-IS",
+  "lang": "아이슬란드어"
+ },
+ {
+  "key": "1g3kyux",
+  "text": "Ég elska þig, Mina!",
+  "bcp": "is-IS",
+  "lang": "아이슬란드어"
+ },
+ {
+  "key": "p2w0gr",
+  "text": "Ég heiti Mina.",
+  "bcp": "is-IS",
+  "lang": "아이슬란드어"
+ },
+ {
+  "key": "lrzzmj",
+  "text": "Bless!",
+  "bcp": "is-IS",
+  "lang": "아이슬란드어"
+ },
+ {
+  "key": "vz76f1",
+  "text": "נעים מאוד, Mina!",
+  "bcp": "he-IL",
+  "lang": "히브리어"
+ },
+ {
+  "key": "ajbzw3",
+  "text": "אני אוהב אותך, Mina!",
+  "bcp": "he-IL",
+  "lang": "히브리어"
+ },
+ {
+  "key": "1y71662",
+  "text": "תודה!",
+  "bcp": "he-IL",
+  "lang": "히브리어"
+ },
+ {
+  "key": "u4a6r5",
+  "text": "קוראים לי Mina.",
+  "bcp": "he-IL",
+  "lang": "히브리어"
+ },
+ {
+  "key": "1vdtwst",
+  "text": "להתראות!",
+  "bcp": "he-IL",
+  "lang": "히브리어"
+ },
+ {
+  "key": "77yo6s",
+  "text": "Nimefurahi kukutana nawe, Mina!",
+  "bcp": "sw-KE",
+  "lang": "스와힐리어"
+ },
+ {
+  "key": "1wef7n2",
+  "text": "Nakupenda, Mina!",
+  "bcp": "sw-KE",
+  "lang": "스와힐리어"
+ },
+ {
+  "key": "13bczog",
+  "text": "Asante!",
+  "bcp": "sw-KE",
+  "lang": "스와힐리어"
+ },
+ {
+  "key": "2p12m4",
+  "text": "Jina langu ni Mina.",
+  "bcp": "sw-KE",
+  "lang": "스와힐리어"
+ },
+ {
+  "key": "1aj35qb",
+  "text": "Kwaheri!",
+  "bcp": "sw-KE",
+  "lang": "스와힐리어"
+ },
+ {
+  "key": "1iqpi4q",
+  "text": "Таанышканыма кубанычтамын, Mina!",
+  "bcp": "ky-KG",
+  "lang": "키르기스어"
+ },
+ {
+  "key": "10p9w20",
+  "text": "Мен сени сүйөм, Mina!",
+  "bcp": "ky-KG",
+  "lang": "키르기스어"
+ },
+ {
+  "key": "ts176x",
+  "text": "Рахмат!",
+  "bcp": "ky-KG",
+  "lang": "키르기스어"
+ },
+ {
+  "key": "1353jl4",
+  "text": "Менин атым Mina.",
+  "bcp": "ky-KG",
+  "lang": "키르기스어"
+ },
+ {
+  "key": "1lemtag",
+  "text": "Жакшы калыңыз!",
+  "bcp": "ky-KG",
+  "lang": "키르기스어"
+ },
+ {
+  "key": "vcs2w3",
+  "text": "Mauri, Mina!",
+  "bcp": "en-US",
+  "lang": "키리바시어"
+ },
+ {
+  "key": "15ol7k6",
+  "text": "I tangiriko, Mina!",
+  "bcp": "en-US",
+  "lang": "키리바시어"
+ },
+ {
+  "key": "1rckdb5",
+  "text": "Ko rabwa!",
+  "bcp": "en-US",
+  "lang": "키리바시어"
+ },
+ {
+  "key": "duppe8",
+  "text": "Ti a boo!",
+  "bcp": "en-US",
+  "lang": "키리바시어"
+ },
+ {
+  "key": "1nkwg2o",
+  "text": "Ke thabetse ho o tseba, Mina!",
+  "bcp": "st-LS",
+  "lang": "소토어"
+ },
+ {
+  "key": "1hipynp",
+  "text": "Kea o rata, Mina!",
+  "bcp": "st-LS",
+  "lang": "소토어"
+ },
+ {
+  "key": "1anaqpi",
+  "text": "Kea leboha!",
+  "bcp": "st-LS",
+  "lang": "소토어"
+ },
+ {
+  "key": "4h9i1p",
+  "text": "Lebitso la ka ke Mina.",
+  "bcp": "st-LS",
+  "lang": "소토어"
+ },
+ {
+  "key": "1iegptn",
+  "text": "Sala hantle!",
+  "bcp": "st-LS",
+  "lang": "소토어"
+ },
+ {
+  "key": "1d33bj2",
+  "text": "Malonu susipažinti, Mina!",
+  "bcp": "lt-LT",
+  "lang": "리투아니아어"
+ },
+ {
+  "key": "pyk7ur",
+  "text": "Aš tave myliu, Mina!",
+  "bcp": "lt-LT",
+  "lang": "리투아니아어"
+ },
+ {
+  "key": "107euuy",
+  "text": "Ačiū!",
+  "bcp": "lt-LT",
+  "lang": "리투아니아어"
+ },
+ {
+  "key": "1a1jr0g",
+  "text": "Mano vardas Mina.",
+  "bcp": "lt-LT",
+  "lang": "리투아니아어"
+ },
+ {
+  "key": "11pvrxw",
+  "text": "Viso gero!",
+  "bcp": "lt-LT",
+  "lang": "리투아니아어"
+ },
+ {
+  "key": "1amot9j",
+  "text": "Et freet mech, Mina!",
+  "bcp": "lb-LU",
+  "lang": "룩셈부르크어"
+ },
+ {
+  "key": "sl17g1",
+  "text": "Ech hunn dech gär, Mina!",
+  "bcp": "lb-LU",
+  "lang": "룩셈부르크어"
+ },
+ {
+  "key": "gvenoi",
+  "text": "Merci!",
+  "bcp": "lb-LU",
+  "lang": "룩셈부르크어"
+ },
+ {
+  "key": "14xdyzl",
+  "text": "Ech heeschen Mina.",
+  "bcp": "lb-LU",
+  "lang": "룩셈부르크어"
+ },
+ {
+  "key": "8drbil",
+  "text": "Äddi!",
+  "bcp": "lb-LU",
+  "lang": "룩셈부르크어"
+ },
+ {
+  "key": "1ry4lfq",
+  "text": "Prieks iepazīties, Mina!",
+  "bcp": "lv-LV",
+  "lang": "라트비아어"
+ },
+ {
+  "key": "6nc3hi",
+  "text": "Es tevi mīlu, Mina!",
+  "bcp": "lv-LV",
+  "lang": "라트비아어"
+ },
+ {
+  "key": "1q1ollg",
+  "text": "Paldies!",
+  "bcp": "lv-LV",
+  "lang": "라트비아어"
+ },
+ {
+  "key": "1zewwt",
+  "text": "Mani sauc Mina.",
+  "bcp": "lv-LV",
+  "lang": "라트비아어"
+ },
+ {
+  "key": "qzex4z",
+  "text": "Uz redzēšanos!",
+  "bcp": "lv-LV",
+  "lang": "라트비아어"
+ },
+ {
+  "key": "fc9vx9",
+  "text": "Încântat de cunoștință, Mina!",
+  "bcp": "ro-RO",
+  "lang": "루마니아어"
+ },
+ {
+  "key": "szx4n3",
+  "text": "Te iubesc, Mina!",
+  "bcp": "ro-RO",
+  "lang": "루마니아어"
+ },
+ {
+  "key": "ia962w",
+  "text": "Mulțumesc!",
+  "bcp": "ro-RO",
+  "lang": "루마니아어"
+ },
+ {
+  "key": "1461qb1",
+  "text": "Mă numesc Mina.",
+  "bcp": "ro-RO",
+  "lang": "루마니아어"
+ },
+ {
+  "key": "jj2rab",
+  "text": "La revedere!",
+  "bcp": "ro-RO",
+  "lang": "루마니아어"
+ },
+ {
+  "key": "1q5px59",
+  "text": "Assalaamu alaikum, Mina!",
+  "bcp": "dv-MV",
+  "lang": "디베히어"
+ },
+ {
+  "key": "12r0mt3",
+  "text": "Shukuriyyaa!",
+  "bcp": "dv-MV",
+  "lang": "디베히어"
+ },
+ {
+  "key": "2ucoci",
+  "text": "Iakwe, Mina!",
+  "bcp": "mh-MH",
+  "lang": "마셜어"
+ },
+ {
+  "key": "1qgzurp",
+  "text": "Kommol tata!",
+  "bcp": "mh-MH",
+  "lang": "마셜어"
+ },
+ {
+  "key": "1n0zds3",
+  "text": "Мило ми е, Mina!",
+  "bcp": "mk-MK",
+  "lang": "마케도니아어"
+ },
+ {
+  "key": "55o9pp",
+  "text": "Те сакам, Mina!",
+  "bcp": "mk-MK",
+  "lang": "마케도니아어"
+ },
+ {
+  "key": "1ns4omx",
+  "text": "Благодарам!",
+  "bcp": "mk-MK",
+  "lang": "마케도니아어"
+ },
+ {
+  "key": "a9q3v8",
+  "text": "Се викам Mina.",
+  "bcp": "mk-MK",
+  "lang": "마케도니아어"
+ },
+ {
+  "key": "salynm",
+  "text": "Довидување!",
+  "bcp": "mk-MK",
+  "lang": "마케도니아어"
+ },
+ {
+  "key": "gckiwa",
+  "text": "Għandi pjaċir, Mina!",
+  "bcp": "mt-MT",
+  "lang": "몰타어"
+ },
+ {
+  "key": "e0mdu0",
+  "text": "Inħobbok, Mina!",
+  "bcp": "mt-MT",
+  "lang": "몰타어"
+ },
+ {
+  "key": "2gdu41",
+  "text": "Grazzi!",
+  "bcp": "mt-MT",
+  "lang": "몰타어"
+ },
+ {
+  "key": "4yab2d",
+  "text": "Jien jisimni Mina.",
+  "bcp": "mt-MT",
+  "lang": "몰타어"
+ },
+ {
+  "key": "hltgyx",
+  "text": "Saħħa!",
+  "bcp": "mt-MT",
+  "lang": "몰타어"
+ },
+ {
+  "key": "jjj5zg",
+  "text": "Ndakondwa kukudziwani, Mina!",
+  "bcp": "ny-MW",
+  "lang": "체와어"
+ },
+ {
+  "key": "s0fp6b",
+  "text": "Ndimakukonda, Mina!",
+  "bcp": "ny-MW",
+  "lang": "체와어"
+ },
+ {
+  "key": "1spek7d",
+  "text": "Zikomo!",
+  "bcp": "ny-MW",
+  "lang": "체와어"
+ },
+ {
+  "key": "qiefly",
+  "text": "Dzina langa ndi Mina.",
+  "bcp": "ny-MW",
+  "lang": "체와어"
+ },
+ {
+  "key": "1okfjsj",
+  "text": "Tsalani bwino!",
+  "bcp": "ny-MW",
+  "lang": "체와어"
+ },
+ {
+  "key": "186jvth",
+  "text": "Ekamawir omo, Mina!",
+  "bcp": "en-US",
+  "lang": "나우루어"
+ },
+ {
+  "key": "1jv706s",
+  "text": "Alii, Mina!",
+  "bcp": "en-US",
+  "lang": "팔라우어"
+ },
+ {
+  "key": "1jtaxbg",
+  "text": "Sulang!",
+  "bcp": "en-US",
+  "lang": "팔라우어"
+ },
+ {
+  "key": "1au5q10",
+  "text": "Gude, Mina!",
+  "bcp": "tpi-PG",
+  "lang": "톡피신어"
+ },
+ {
+  "key": "1e5gb60",
+  "text": "Mi laikim yu, Mina!",
+  "bcp": "tpi-PG",
+  "lang": "톡피신어"
+ },
+ {
+  "key": "1ixr6e6",
+  "text": "Tenkyu!",
+  "bcp": "tpi-PG",
+  "lang": "톡피신어"
+ },
+ {
+  "key": "70lg27",
+  "text": "Nem bilong mi Mina.",
+  "bcp": "tpi-PG",
+  "lang": "톡피신어"
+ },
+ {
+  "key": "4lyslk",
+  "text": "Lukim yu!",
+  "bcp": "tpi-PG",
+  "lang": "톡피신어"
+ },
+ {
+  "key": "paoq6e",
+  "text": "Ku soo dhawow, Mina!",
+  "bcp": "so-SO",
+  "lang": "소말리어"
+ },
+ {
+  "key": "1g2wntj",
+  "text": "Waan ku jeclahay, Mina!",
+  "bcp": "so-SO",
+  "lang": "소말리어"
+ },
+ {
+  "key": "tsanji",
+  "text": "Mahadsanid!",
+  "bcp": "so-SO",
+  "lang": "소말리어"
+ },
+ {
+  "key": "10g8vpq",
+  "text": "Magacaygu waa Mina.",
+  "bcp": "so-SO",
+  "lang": "소말리어"
+ },
+ {
+  "key": "1yvxfja",
+  "text": "Nabad gelyo!",
+  "bcp": "so-SO",
+  "lang": "소말리어"
+ },
+ {
+  "key": "ynfpyt",
+  "text": "Драго ми је, Mina!",
+  "bcp": "sr-RS",
+  "lang": "세르비아어"
+ },
+ {
+  "key": "tdb9yb",
+  "text": "Волим те, Mina!",
+  "bcp": "sr-RS",
+  "lang": "세르비아어"
+ },
+ {
+  "key": "ljz6io",
+  "text": "Хвала!",
+  "bcp": "sr-RS",
+  "lang": "세르비아어"
+ },
+ {
+  "key": "12br7yo",
+  "text": "Зовем се Mina.",
+  "bcp": "sr-RS",
+  "lang": "세르비아어"
+ },
+ {
+  "key": "1g60wh",
+  "text": "Довиђења!",
+  "bcp": "sr-RS",
+  "lang": "세르비아어"
+ },
+ {
+  "key": "4lj7p8",
+  "text": "Teší ma, Mina!",
+  "bcp": "sk-SK",
+  "lang": "슬로바키아어"
+ },
+ {
+  "key": "qi43b6",
+  "text": "Ľúbim ťa, Mina!",
+  "bcp": "sk-SK",
+  "lang": "슬로바키아어"
+ },
+ {
+  "key": "175lajf",
+  "text": "Ďakujem!",
+  "bcp": "sk-SK",
+  "lang": "슬로바키아어"
+ },
+ {
+  "key": "18bp0kn",
+  "text": "Volám sa Mina.",
+  "bcp": "sk-SK",
+  "lang": "슬로바키아어"
+ },
+ {
+  "key": "1y9d09d",
+  "text": "Dovidenia!",
+  "bcp": "sk-SK",
+  "lang": "슬로바키아어"
+ },
+ {
+  "key": "1jydc07",
+  "text": "Me veseli, Mina!",
+  "bcp": "sl-SI",
+  "lang": "슬로베니아어"
+ },
+ {
+  "key": "xlz2b9",
+  "text": "Rad te imam, Mina!",
+  "bcp": "sl-SI",
+  "lang": "슬로베니아어"
+ },
+ {
+  "key": "1tzuxd2",
+  "text": "Ime mi je Mina.",
+  "bcp": "sl-SI",
+  "lang": "슬로베니아어"
+ },
+ {
+  "key": "1jwe761",
+  "text": "Nasvidenje!",
+  "bcp": "sl-SI",
+  "lang": "슬로베니아어"
+ },
+ {
+  "key": "17bn6k0",
+  "text": "Ngiyajabula kukwati, Mina!",
+  "bcp": "ss-SZ",
+  "lang": "스와티어"
+ },
+ {
+  "key": "1f3b4mg",
+  "text": "Ngiyakutsandza, Mina!",
+  "bcp": "ss-SZ",
+  "lang": "스와티어"
+ },
+ {
+  "key": "14nj351",
+  "text": "Ngiyabonga!",
+  "bcp": "ss-SZ",
+  "lang": "스와티어"
+ },
+ {
+  "key": "198sdo7",
+  "text": "Libito lami ngu-Mina.",
+  "bcp": "ss-SZ",
+  "lang": "스와티어"
+ },
+ {
+  "key": "4xu76o",
+  "text": "Sala kahle!",
+  "bcp": "ss-SZ",
+  "lang": "스와티어"
+ },
+ {
+  "key": "1qgvnql",
+  "text": "Аз шиносоӣ бо шумо шодам, Mina!",
+  "bcp": "tg-TJ",
+  "lang": "타지크어"
+ },
+ {
+  "key": "jl74k",
+  "text": "Ман туро дӯст медорам, Mina!",
+  "bcp": "tg-TJ",
+  "lang": "타지크어"
+ },
+ {
+  "key": "1dbxpwn",
+  "text": "Раҳмат!",
+  "bcp": "tg-TJ",
+  "lang": "타지크어"
+ },
+ {
+  "key": "xz4yem",
+  "text": "Номи ман Mina.",
+  "bcp": "tg-TJ",
+  "lang": "타지크어"
+ },
+ {
+  "key": "1ltkb5c",
+  "text": "Хайр!",
+  "bcp": "tg-TJ",
+  "lang": "타지크어"
+ },
+ {
+  "key": "19zl31q",
+  "text": "Tanyşanyma şat, Mina!",
+  "bcp": "tk-TM",
+  "lang": "투르크멘어"
+ },
+ {
+  "key": "1g5tyms",
+  "text": "Men seni söýýärin, Mina!",
+  "bcp": "tk-TM",
+  "lang": "투르크멘어"
+ },
+ {
+  "key": "fwvmg1",
+  "text": "Sag boluň!",
+  "bcp": "tk-TM",
+  "lang": "투르크멘어"
+ },
+ {
+  "key": "apwhgm",
+  "text": "Meniň adym Mina.",
+  "bcp": "tk-TM",
+  "lang": "투르크멘어"
+ },
+ {
+  "key": "41nj18",
+  "text": "Hoş gal!",
+  "bcp": "tk-TM",
+  "lang": "투르크멘어"
+ },
+ {
+  "key": "32kwif",
+  "text": "Kontente hasoru ita, Mina!",
+  "bcp": "tet-TL",
+  "lang": "테툼어"
+ },
+ {
+  "key": "1m5qx1o",
+  "text": "Hau hadomi ó, Mina!",
+  "bcp": "tet-TL",
+  "lang": "테툼어"
+ },
+ {
+  "key": "19hfyd",
+  "text": "Obrigadu!",
+  "bcp": "tet-TL",
+  "lang": "테툼어"
+ },
+ {
+  "key": "1vq139e",
+  "text": "Haʻu-nia naran Mina.",
+  "bcp": "tet-TL",
+  "lang": "테툼어"
+ },
+ {
+  "key": "bcjvne",
+  "text": "Adeus!",
+  "bcp": "tet-TL",
+  "lang": "테툼어"
+ },
+ {
+  "key": "7pzfhm",
+  "text": "Mālō e lelei, Mina!",
+  "bcp": "to-TO",
+  "lang": "통가어"
+ },
+ {
+  "key": "1vujouh",
+  "text": "ʻOku ou ʻofa ʻiate koe, Mina!",
+  "bcp": "to-TO",
+  "lang": "통가어"
+ },
+ {
+  "key": "16ew0wb",
+  "text": "Mālō!",
+  "bcp": "to-TO",
+  "lang": "통가어"
+ },
+ {
+  "key": "nm3ivh",
+  "text": "Ko hoku hingoa ko Mina.",
+  "bcp": "to-TO",
+  "lang": "통가어"
+ },
+ {
+  "key": "139oq45",
+  "text": "Nofo ā!",
+  "bcp": "to-TO",
+  "lang": "통가어"
+ },
+ {
+  "key": "1smh3wv",
+  "text": "Halo, Mina!",
+  "bcp": "bi-VU",
+  "lang": "비슬라마어"
+ },
+ {
+  "key": "u75sti",
+  "text": "Mi lavem yu, Mina!",
+  "bcp": "bi-VU",
+  "lang": "비슬라마어"
+ },
+ {
+  "key": "1tgxeh5",
+  "text": "Tangkyu tumas!",
+  "bcp": "bi-VU",
+  "lang": "비슬라마어"
+ },
+ {
+  "key": "serlc0",
+  "text": "Nem blong mi Mina.",
+  "bcp": "bi-VU",
+  "lang": "비슬라마어"
+ },
+ {
+  "key": "mayfq0",
+  "text": "Talofa, Mina!",
+  "bcp": "sm-WS",
+  "lang": "사모아어"
+ },
+ {
+  "key": "114tg5g",
+  "text": "Ou te alofa ia te oe, Mina!",
+  "bcp": "sm-WS",
+  "lang": "사모아어"
+ },
+ {
+  "key": "1jp0l64",
+  "text": "Faʻafetai!",
+  "bcp": "sm-WS",
+  "lang": "사모아어"
+ },
+ {
+  "key": "1e5a25f",
+  "text": "O loʻu igoa o Mina.",
+  "bcp": "sm-WS",
+  "lang": "사모아어"
+ },
+ {
+  "key": "lry9ju",
+  "text": "Tōfā!",
+  "bcp": "sm-WS",
+  "lang": "사모아어"
+ },
+ {
+  "key": "si3cz9",
+  "text": "Ndafara kukuzivai, Mina!",
+  "bcp": "sn-ZW",
+  "lang": "쇼나어"
+ },
+ {
+  "key": "1jzwr3c",
+  "text": "Ndinokuda, Mina!",
+  "bcp": "sn-ZW",
+  "lang": "쇼나어"
+ },
+ {
+  "key": "1oqrsa1",
+  "text": "Ndatenda!",
+  "bcp": "sn-ZW",
+  "lang": "쇼나어"
+ },
+ {
+  "key": "1w0zx54",
+  "text": "Zita rangu ndi Mina.",
+  "bcp": "sn-ZW",
+  "lang": "쇼나어"
+ },
+ {
+  "key": "1svn134",
+  "text": "Sarai zvakanaka!",
+  "bcp": "sn-ZW",
+  "lang": "쇼나어"
+ }
+]

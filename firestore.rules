@@ -1,0 +1,22 @@
+rules_version = '2';
+// 우리아이 퀴즈놀이 랭킹 규칙
+// - 누구나 랭킹판을 읽을 수 있어요.
+// - 자기 기기(익명 로그인)로 만든 기록만 쓰고 지울 수 있어요.
+// - 이름은 20자, 점수는 100만 점까지만 받아요.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /players/{id} {
+      allow read: if true;
+      allow delete: if request.auth != null && id.matches(request.auth.uid + '_.*');
+      allow create, update: if request.auth != null
+        && id.matches(request.auth.uid + '_.*')
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.nick is string && request.resource.data.nick.size() <= 20
+        && request.resource.data.org is string && request.resource.data.org.size() <= 40
+        && request.resource.data.total is int && request.resource.data.total >= 0 && request.resource.data.total < 1000000;
+    }
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
